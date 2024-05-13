@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Dzyhovskyi_Task4.jnlp">
+  <information>
+    <title>Dzyhovskyi_Task4</title>
+    <vendor>Vladyslav Dzyhovskyi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Dzyhovskyi_Task4.jar" size="6115" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="dzyhovskyi_task4.Dzyhovskyi_Task4"  name="Dzyhovskyi_Task4" />
+  <update check="always"/>
+</jnlp>

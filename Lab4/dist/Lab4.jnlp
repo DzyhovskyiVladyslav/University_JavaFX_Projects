@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Lab4.jnlp">
+  <information>
+    <title>Lab4</title>
+    <vendor>Vladyslav Dzyhovskyi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Lab4.jar" size="5306" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="Lab_4_Dzyhovskyi_V_I.Lab_4_Dzyhovskyi_V_I"  name="Lab4" />
+  <update check="always"/>
+</jnlp>
